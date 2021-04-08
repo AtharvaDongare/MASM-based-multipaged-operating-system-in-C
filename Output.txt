@@ -1,0 +1,57 @@
+program 1
+Page fault error
+
+VIT
+VIIT
+NOTSAME
+
+
+Operation code error
+TTL: 3
+TLL: 1
+TTC: 2
+LLC: 0
+IC: 2
+IR: AB10
+
+Operand error
+TTL: 3
+TLL: 1
+TTC: 0
+LLC: 0
+IC: 1
+IR: GDB0
+
+Time Limit exceeded
+TTL: 1
+TLL: 1
+TTC: 2
+LLC: 0
+IC: 1
+IR: GD10
+
+Line limit exceeded
+TTL: 3
+TLL: 0
+TTC: 1
+LLC: 1
+IC: 2
+IR: PD10
+
+Line limit exceeded
+TTL: 3
+TLL: 0
+TTC: 1
+LLC: 1
+IC: 2
+IR: PD10
+
+program 6
+OUT OF DATA
+TTL: 5
+TLL: 1
+TTC: 4
+LLC: 1
+IC: 3
+IR: GD20
+
